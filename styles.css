@@ -1,0 +1,30 @@
+.horsey {
+    text-align: left;
+    color: darkorchid;
+}
+
+.pony {
+    text-align: left;
+    color: darkorchid;
+}
+
+.play { 
+    background-image: url(unicorn.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+    background-position: bottom;
+    background-color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.img {
+    border-radius: 20%; 
+    width: 60px; 
+    height: 60px; 
+    display: block;
+    
+}
+
